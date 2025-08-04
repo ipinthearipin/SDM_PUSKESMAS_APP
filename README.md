@@ -6,10 +6,6 @@ Aplikasi ini dirancang untuk membantu manajemen **SDM Puskesmas** dalam mengelol
 - Jadwal kerja dan shift
 - Laporan evaluasi karyawan
 
-## Preview
-
-![Pratinjau](assets/assets/loginpage.jpg)
-
 ## 📦 Isi Repo
 
 | File/Folder | Deskripsi |
@@ -20,6 +16,10 @@ Aplikasi ini dirancang untuk membantu manajemen **SDM Puskesmas** dalam mengelol
 | `assets` | Tampilan aplikasi |
 | `.gitignore` | File pengecualian untuk keamanan |
 | `README.md` | Dokumentasi ini |
+
+## 📸 Preview
+
+![Pratinjau](assets/assets/loginpage.jpg)
 
 ## 🖥 Backend (PHP)
 
