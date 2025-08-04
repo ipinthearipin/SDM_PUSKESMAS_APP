@@ -6,6 +6,9 @@ Aplikasi ini dirancang untuk membantu manajemen **SDM Puskesmas** dalam mengelol
 - Jadwal kerja dan shift
 - Laporan evaluasi karyawan
 
+## Preview
+
+![Pratinjau](assets/assets/loginpage.jpg)
 
 ## 📦 Isi Repo
 
@@ -14,6 +17,7 @@ Aplikasi ini dirancang untuk membantu manajemen **SDM Puskesmas** dalam mengelol
 | `cgi-bin-public/` | Backend PHP  |
 | `SDMPuskesmas_app.apk` | Aplikasi Android siap install |
 | `SDM_Puskesmas.aia` | Source code App Inventor (untuk pengembangan lebih lanjut) |
+| `assets` | Tampilan aplikasi |
 | `.gitignore` | File pengecualian untuk keamanan |
 | `README.md` | Dokumentasi ini |
 
